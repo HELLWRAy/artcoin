@@ -35,7 +35,7 @@ ArtCoin is a dynamic web application that transforms Solana blockchain transacti
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/artcoin.git
+git clone [https://github.com/yourusername/artcoin.git](https://github.com/artcoinsproject/artcoin)
 cd artcoin
 ```
 
