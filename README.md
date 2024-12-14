@@ -4,7 +4,7 @@ artcoins.ai
 
 # ArtCoins - Generative Art from Solana Transactions
 
-ArtCoins is an open source on-chain generative AI project.
+ArtCoins is an open source on-chain generative AI project. Every piece on the visualizer is generated from the on-chain txn history of a token on Solana. The generation creates a rarity score (tier), a unique color palette and shape distribution (number of circles, rectangles, lines, polygons, etc).
 
 ## Features
 
