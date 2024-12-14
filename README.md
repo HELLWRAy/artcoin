@@ -1,7 +1,8 @@
 ![ArtCoin Frame](/public/frame.jpg)
 
+artcoins.ai
 
-# ArtCoin - Generative Art from Solana Transactions
+# ArtCoins - Generative Art from Solana Transactions
 
 ArtCoin is a dynamic web application that transforms Solana blockchain transactions into unique, generative artwork. Each transaction hash is used as a seed to create beautiful, deterministic art pieces with varying styles, colors, and complexity.
 
